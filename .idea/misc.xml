@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WhiteHeaven_Cart_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Eureka_Server_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_User_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_Product_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Payment_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_Fucntional_Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Order_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_Universal_Microservice_Patterns_Impl_Appn/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Kafka_Consumer_One_O_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Kafka_Producer_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Saga_Orchestrator_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Platform_Testing_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/WhiteHeaven_Kafka_Consumer_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Cart_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Eureka_Server_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Fucntional_Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Kafka_Consumer_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Kafka_Consumer_One_O_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Kafka_Producer_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Order_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Payment_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Platform_Testing_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Product_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Saga_Orchestrator_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Universal_Microservice_Patterns_Impl_Appn/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_User_Microservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" default="true" project-jdk-name="26" project-jdk-type="JavaSDK" />
+</project>
