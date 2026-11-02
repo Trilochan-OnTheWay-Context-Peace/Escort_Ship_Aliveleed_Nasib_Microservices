@@ -1,7 +1,7 @@
 package com.white.heaven.microservices.saga.orchestrator.application;
 
 //@SpringBootTest
-class WhiteHeavenSagaOrchestratorMicroserviceApplicationTests {
+class EscortShipSagaOrchestratorMicroserviceApplicationTests {
 
    //@Test
     void contextLoads() {

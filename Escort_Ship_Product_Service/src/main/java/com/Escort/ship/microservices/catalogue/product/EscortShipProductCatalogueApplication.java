@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.gateway.config.GatewayAutoConfiguration;
 
 @SpringBootApplication(exclude = {GatewayAutoConfiguration.class})
-public class WhiteHeavenProductCatalogueApplication {
+public class EscortShipProductCatalogueApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhiteHeavenProductCatalogueApplication.class, args);
+        SpringApplication.run(EscortShipProductCatalogueApplication.class, args);
     }
 
 }

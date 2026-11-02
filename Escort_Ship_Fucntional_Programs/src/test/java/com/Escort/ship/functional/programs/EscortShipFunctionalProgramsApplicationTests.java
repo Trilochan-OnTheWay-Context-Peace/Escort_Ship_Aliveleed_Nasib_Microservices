@@ -1,4 +1,4 @@
-package com.ultra.Escort.ship.functional.programs;
+package com.Escort.ship.functional.programs;
 
 import lombok.Data;
 import org.junit.Test;
@@ -11,7 +11,7 @@ import java.util.function.*;
 import java.util.stream.Collectors;
 
 @SpringBootTest
-public class WhiteHeavenFunctionalProgramsApplicationTests {
+public class EscortShipFunctionalProgramsApplicationTests {
 
     @Test
     public void contextLoads() throws ExecutionException, InterruptedException, IOException {
@@ -42,7 +42,7 @@ public class WhiteHeavenFunctionalProgramsApplicationTests {
         stringList.sort(String::compareToIgnoreCase);
 
         Function<Integer, Integer> sqrFunctionStatic = num -> num * num;
-        WhiteHeavenFunctionalProgramsApplication appn = new WhiteHeavenFunctionalProgramsApplication();
+        EscortShipFunctionalProgramsApplication appn = new EscortShipFunctionalProgramsApplication();
         Function<Integer, Integer> sqrFunctionInstance = this::square;
         System.out.println("Square of 200 is " + sqrFunctionInstance.apply(200));
 

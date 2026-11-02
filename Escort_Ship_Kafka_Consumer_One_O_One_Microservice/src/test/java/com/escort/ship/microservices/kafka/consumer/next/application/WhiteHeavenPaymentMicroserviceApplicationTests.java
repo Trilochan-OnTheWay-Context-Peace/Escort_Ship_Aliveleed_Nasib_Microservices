@@ -1,7 +1,7 @@
 package com.white.heaven.microservices.kafka.consumer.next.application;
 
 //@SpringBootTest
-class WhiteHeavenPaymentMicroserviceApplicationTests {
+class EscortShipPaymentMicroserviceApplicationTests {
 
    //@Test
     void contextLoads() {

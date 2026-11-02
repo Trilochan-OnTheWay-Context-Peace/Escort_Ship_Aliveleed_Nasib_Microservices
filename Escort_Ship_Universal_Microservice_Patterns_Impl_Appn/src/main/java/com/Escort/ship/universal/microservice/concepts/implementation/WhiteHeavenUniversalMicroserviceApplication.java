@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.gateway.config.GatewayAutoConfiguration;
 
 @SpringBootApplication(exclude = {GatewayAutoConfiguration.class})
-public class WhiteHeavenUniversalMicroserviceApplication {
+public class EscortShipUniversalMicroserviceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhiteHeavenUniversalMicroserviceApplication.class, args);
+        SpringApplication.run(EscortShipUniversalMicroserviceApplication.class, args);
     }
 
 }

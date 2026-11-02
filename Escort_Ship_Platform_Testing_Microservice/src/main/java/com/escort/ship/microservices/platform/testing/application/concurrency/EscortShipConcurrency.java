@@ -4,7 +4,7 @@ import com.ultra.Escort.ship.functional.programs.RunExecuteJavaCodes;
 import org.springframework.stereotype.Component;
 
 @Component
-public class WhiteHeavenConcurrency implements RunExecuteJavaCodes {
+public class EscortShipConcurrency implements RunExecuteJavaCodes {
 
     public void runExecuteJavaCodes() {
 

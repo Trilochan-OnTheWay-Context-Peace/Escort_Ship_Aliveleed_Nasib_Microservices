@@ -12,8 +12,8 @@
     <artifactId>platform-testing-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>WhiteHeaven_Platform_Testing_Microservice</name>
-    <description>WhiteHeaven_Platform_Testing_Microservice</description>
+    <name>EscortShip_Platform_Testing_Microservice</name>
+    <description>EscortShip_Platform_Testing_Microservice</description>
     <url/>
     <licenses>
         <license/>

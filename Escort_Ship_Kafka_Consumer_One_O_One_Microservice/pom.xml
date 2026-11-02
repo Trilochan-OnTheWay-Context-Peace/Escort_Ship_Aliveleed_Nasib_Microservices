@@ -12,8 +12,8 @@
     <artifactId>kafka-consumer-next-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>WhiteHeavenKafkaConsumerNextApplication</name>
-    <description>WhiteHeavenKafkaConsumerNextApplication</description>
+    <name>EscortShipKafkaConsumerNextApplication</name>
+    <description>EscortShipKafkaConsumerNextApplication</description>
     <url/>
     <licenses>
         <license/>

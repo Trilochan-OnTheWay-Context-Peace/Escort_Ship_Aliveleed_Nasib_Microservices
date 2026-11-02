@@ -1,7 +1,7 @@
 package com.white.ship.microservices.payment.application;
 
 //@SpringBootTest
-class WhiteHeavenPaymentMicroserviceApplicationTests {
+class EscortShipPaymentMicroserviceApplicationTests {
 
    //@Test
     void contextLoads() {

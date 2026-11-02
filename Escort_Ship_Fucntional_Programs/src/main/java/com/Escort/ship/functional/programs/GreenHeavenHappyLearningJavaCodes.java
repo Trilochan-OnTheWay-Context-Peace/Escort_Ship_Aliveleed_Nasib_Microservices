@@ -1,9 +1,9 @@
-package com.ultra.Escort.ship.functional.programs;
+package com.Escort.ship.functional.programs;
 
-import com.ultra.Escort.ship.functional.programs.dtos.Customer;
-import com.ultra.Escort.ship.functional.programs.function.interfaces.CalculateAverage;
-import com.ultra.Escort.ship.functional.programs.function.interfaces.HappyLearning;
-import com.ultra.Escort.ship.functional.programs.service.CustomerService;
+import com.Escort.ship.functional.programs.dtos.Customer;
+import com.Escort.ship.functional.programs.function.interfaces.CalculateAverage;
+import com.Escort.ship.functional.programs.function.interfaces.HappyLearning;
+import com.Escort.ship.functional.programs.service.CustomerService;
 
 import java.io.IOException;
 import java.net.URI;
@@ -480,3 +480,4 @@ public class GreenHeavenHappyLearningJavaCodes implements HappyLearning {
 
     }*/
 }
+

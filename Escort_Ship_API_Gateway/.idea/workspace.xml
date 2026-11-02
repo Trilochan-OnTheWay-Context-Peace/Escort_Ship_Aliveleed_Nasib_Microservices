@@ -24,7 +24,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Maven.WhiteHeaven_API_Gateway.executor": "Run",
+    "Maven.EscortShip_API_Gateway.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -41,8 +41,8 @@
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
-  <component name="RunManager" selected="Maven.WhiteHeaven_API_Gateway">
-    <configuration name="WhiteHeaven_API_Gateway" type="MavenRunConfiguration" factoryName="Maven">
+  <component name="RunManager" selected="Maven.EscortShip_API_Gateway">
+    <configuration name="EscortShip_API_Gateway" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -106,16 +106,16 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="WhiteHeavenApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="EscortShipApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="api-gateway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.white.ship.microservices.api.gateway.WhiteHeavenApiGatewayApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.white.ship.microservices.api.gateway.EscortShipApiGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Maven.WhiteHeaven_API_Gateway" />
-      <item itemvalue="Spring Boot.WhiteHeavenApiGatewayApplication" />
+      <item itemvalue="Maven.EscortShip_API_Gateway" />
+      <item itemvalue="Spring Boot.EscortShipApiGatewayApplication" />
     </list>
   </component>
   <component name="SharedIndexes">

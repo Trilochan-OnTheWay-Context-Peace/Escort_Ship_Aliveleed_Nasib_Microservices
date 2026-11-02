@@ -1,7 +1,7 @@
 package com.white.heaven.microservices.kafka.consumer.one.application;
 
 //@SpringBootTest
-class WhiteHeavenKafkaConsumerOneMicroserviceApplicationTests {
+class EscortShipKafkaConsumerOneMicroserviceApplicationTests {
 
    //@Test
     void contextLoads() {

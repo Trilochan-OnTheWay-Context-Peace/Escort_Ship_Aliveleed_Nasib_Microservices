@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="order-application" />
       </profile>
-      <profile name="Annotation profile for WhiteHeaven_Payment_Microservice" enabled="true">
+      <profile name="Annotation profile for EscortShip_Payment_Microservice" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />

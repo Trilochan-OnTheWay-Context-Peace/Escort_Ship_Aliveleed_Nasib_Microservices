@@ -1,4 +1,4 @@
-package com.ultra.Escort.ship.functional.programs.dtos;
+package com.Escort.ship.functional.programs.dtos;
 
 public class Customer {
 

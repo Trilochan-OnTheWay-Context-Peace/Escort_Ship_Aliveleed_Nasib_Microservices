@@ -6,7 +6,7 @@ import java.util.concurrent.*;
 
 import static org.springframework.cloud.client.discovery.ReactiveDiscoveryClient.LOG;
 
-public class WhiteHeavenMisellenousCodes implements RunExecuteJavaCodes {
+public class EscortShipMisellenousCodes implements RunExecuteJavaCodes {
 
 
     @Override

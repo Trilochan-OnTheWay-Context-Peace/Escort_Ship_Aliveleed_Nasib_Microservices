@@ -1,6 +1,6 @@
-package com.ultra.Escort.ship.functional.programs.service;
+package com.Escort.ship.functional.programs.service;
 
-import com.ultra.Escort.ship.functional.programs.dtos.Customer;
+import com.Escort.ship.functional.programs.dtos.Customer;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -3,13 +3,13 @@ server:
 
 spring:
   application:
-    name: WhiteHeaven_API_Gateway
+    name: EscortShip_API_Gateway
 
   cloud:
     gateway:
       routes:
         - id: user-microservice
-          uri: lb://WhiteHeavenUserMicroservice
+          uri: lb://EscortShipUserMicroservice
           predicates:
             - Path=/users/**
 
@@ -18,4 +18,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 
-uri: lb://WhiteHeavenUserMicroservice
+uri: lb://EscortShipUserMicroservice

@@ -1,7 +1,7 @@
 package com.white.ship.microservices.cart.application;
 
 //@SpringBootTest
-class WhiteHeavenCartMicroserviceApplicationTests {
+class EscortShipCartMicroserviceApplicationTests {
 
    //@Test
     void contextLoads() {

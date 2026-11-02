@@ -1,6 +1,6 @@
 spring:
   application:
-    name: WhiteHeaven_Cart_Microservice
+    name: EscortShip_Cart_Microservice
 
 server:
   port: 8083

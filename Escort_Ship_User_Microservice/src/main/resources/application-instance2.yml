@@ -1,6 +1,6 @@
 spring:
   application:
-    name: WhiteHeavenUserMicroservice
+    name: EscortShipUserMicroservice
 
 server:
   port: 8092

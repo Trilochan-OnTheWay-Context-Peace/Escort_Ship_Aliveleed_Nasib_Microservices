@@ -1,4 +1,4 @@
-package com.ultra.Escort.ship.functional.programs.function.interfaces;
+package com.Escort.ship.functional.programs.function.interfaces;
 
 @FunctionalInterface
 public interface CalculateAverage {

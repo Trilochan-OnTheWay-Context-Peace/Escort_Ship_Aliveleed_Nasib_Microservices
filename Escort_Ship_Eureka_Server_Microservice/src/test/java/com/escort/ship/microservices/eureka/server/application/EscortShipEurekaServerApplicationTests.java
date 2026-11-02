@@ -1,7 +1,7 @@
 package com.white.ship.microservices.eureka.server.application;
 
 //@SpringBootTest
-class WhiteHeavenEurekaServerApplicationTests {
+class EscortShipEurekaServerApplicationTests {
 
    //@Test
     void contextLoads() {

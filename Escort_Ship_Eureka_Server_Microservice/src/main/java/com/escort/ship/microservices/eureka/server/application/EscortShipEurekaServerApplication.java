@@ -10,10 +10,10 @@ import org.springframework.format.support.FormattingConversionService;
 
 @SpringBootApplication(exclude = {WebMvcAutoConfiguration.class})
 @EnableEurekaServer
-public class WhiteHeavenEurekaServerApplication {
+public class EscortShipEurekaServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhiteHeavenEurekaServerApplication.class, args);
+        SpringApplication.run(EscortShipEurekaServerApplication.class, args);
     }
 
 

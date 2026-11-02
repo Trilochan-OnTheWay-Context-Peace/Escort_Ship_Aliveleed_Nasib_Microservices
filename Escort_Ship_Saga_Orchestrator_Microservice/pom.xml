@@ -12,8 +12,8 @@
     <artifactId>saga-orchestrator-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>WhiteHeaven_Saga_Orchestrator_Microservice</name>
-    <description>WhiteHeaven_Saga_Orchestrator_Microservice</description>
+    <name>EscortShip_Saga_Orchestrator_Microservice</name>
+    <description>EscortShip_Saga_Orchestrator_Microservice</description>
     <url/>
     <licenses>
         <license/>

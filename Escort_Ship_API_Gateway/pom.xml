@@ -12,8 +12,8 @@
     <artifactId>api-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>WhiteHeaven_API_Gateway</name>
-    <description>WhiteHeaven_API_Gateway</description>
+    <name>EscortShip_API_Gateway</name>
+    <description>EscortShip_API_Gateway</description>
     <url/>
     <licenses>
         <license/>

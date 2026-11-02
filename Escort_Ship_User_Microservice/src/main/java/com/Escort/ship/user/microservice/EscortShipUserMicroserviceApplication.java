@@ -8,10 +8,10 @@ import org.springframework.format.support.DefaultFormattingConversionService;
 import org.springframework.format.support.FormattingConversionService;
 
 @SpringBootApplication(exclude = {WebMvcAutoConfiguration.class})
-public class WhiteHeavenUserMicroserviceApplication {
+public class EscortShipUserMicroserviceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhiteHeavenUserMicroserviceApplication.class, args);
+        SpringApplication.run(EscortShipUserMicroserviceApplication.class, args);
     }
 
     @Bean(name = "mvcConversionService")

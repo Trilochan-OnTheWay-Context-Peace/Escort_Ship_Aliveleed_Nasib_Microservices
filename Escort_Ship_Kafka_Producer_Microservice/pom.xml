@@ -11,8 +11,8 @@
     <groupId>com.white.ship.microservices</groupId>
     <artifactId>kafka-producer-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>WhiteHeavenKafkaProducerMicroserviceApplication</name>
-    <description>WhiteHeavenKafkaProducerMicroserviceApplication</description>
+    <name>EscortShipKafkaProducerMicroserviceApplication</name>
+    <description>EscortShipKafkaProducerMicroserviceApplication</description>
     <url/>
     <licenses>
         <license/>

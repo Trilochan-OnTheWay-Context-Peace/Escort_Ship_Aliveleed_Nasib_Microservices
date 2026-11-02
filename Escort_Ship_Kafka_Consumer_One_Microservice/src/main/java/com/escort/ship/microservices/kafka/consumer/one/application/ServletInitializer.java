@@ -1,4 +1,4 @@
-package com.white.ship.microservices.kafka.consumer.one.application;
+package com.escort.ship.microservices.kafka.consumer.one.application;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(WhiteHeavenKafkaConsumerOneMicroserviceApplication.class);
+        return application.sources(EscortShipKafkaConsumerOneMicroserviceApplication.class);
     }
 
 }

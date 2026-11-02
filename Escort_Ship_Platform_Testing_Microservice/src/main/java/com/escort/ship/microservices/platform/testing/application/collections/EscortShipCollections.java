@@ -7,7 +7,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 @Component
-public class WhiteHeavenCollections implements RunExecuteJavaCodes {
+public class EscortShipCollections implements RunExecuteJavaCodes {
 
     public void runExecuteJavaCodes() {
 

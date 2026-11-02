@@ -1,7 +1,7 @@
 package com.white.heaven.microservices.payment.application;
 
 //@SpringBootTest
-class WhiteHeavenPlatformTestingMicroserviceApplicationTests {
+class EscortShipPlatformTestingMicroserviceApplicationTests {
 
    //@Test
     void contextLoads() {

@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(WhiteHeavenKafkaConsumerNextApplication.class);
+        return application.sources(EscortShipKafkaConsumerNextApplication.class);
     }
 
 }

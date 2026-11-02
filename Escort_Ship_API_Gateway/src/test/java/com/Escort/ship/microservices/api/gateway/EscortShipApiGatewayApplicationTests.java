@@ -1,10 +1,7 @@
-package com.white.ship.microservices.api.gateway;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+package com.Escort.ship.microservices.api.gateway;
 
 //@SpringBootTest
-class WhiteHeavenApiGatewayApplicationTests {
+class EscortShipApiGatewayApplicationTests {
 
     //@Test
     void contextLoads() {

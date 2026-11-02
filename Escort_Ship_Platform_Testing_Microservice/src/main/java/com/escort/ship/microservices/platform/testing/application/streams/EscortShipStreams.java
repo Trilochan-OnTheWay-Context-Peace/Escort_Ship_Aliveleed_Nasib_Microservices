@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 
 @Component
-public class WhiteHeavenStreams implements RunExecuteJavaCodes {
+public class EscortShipStreams implements RunExecuteJavaCodes {
 
     public void runExecuteJavaCodes() {
 

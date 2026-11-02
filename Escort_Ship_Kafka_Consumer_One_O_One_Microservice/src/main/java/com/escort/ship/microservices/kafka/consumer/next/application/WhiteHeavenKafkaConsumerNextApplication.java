@@ -8,10 +8,10 @@ import org.springframework.format.support.DefaultFormattingConversionService;
 import org.springframework.format.support.FormattingConversionService;
 
 @SpringBootApplication(exclude = {WebMvcAutoConfiguration.class})
-public class WhiteHeavenKafkaConsumerNextApplication {
+public class EscortShipKafkaConsumerNextApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhiteHeavenKafkaConsumerNextApplication.class, args);
+        SpringApplication.run(EscortShipKafkaConsumerNextApplication.class, args);
     }
 
 

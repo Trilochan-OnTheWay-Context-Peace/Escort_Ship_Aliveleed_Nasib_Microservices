@@ -15,15 +15,15 @@
     <file url="file://$PROJECT_DIR$/Escort_Ship_Saga_Orchestrator_Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Escort_Ship_Universal_Microservice_Patterns_Impl_Appn/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Escort_Ship_User_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Cart_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Eureka_Server_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Kafka_Consumer_One_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Kafka_Consumer_One_O_One_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Kafka_Producer_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Order_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Payment_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Platform_Testing_Microservice/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/WhiteHeaven_Saga_Orchestrator_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Cart_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Eureka_Server_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Kafka_Consumer_One_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Kafka_Consumer_One_O_One_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Kafka_Producer_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Order_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Payment_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Platform_Testing_Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EscortShip_Saga_Orchestrator_Microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/White_Heaven_API_Gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/White_Heaven_Fucntional_Programs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/White_Heaven_Product_Service/src/main/java" charset="UTF-8" />

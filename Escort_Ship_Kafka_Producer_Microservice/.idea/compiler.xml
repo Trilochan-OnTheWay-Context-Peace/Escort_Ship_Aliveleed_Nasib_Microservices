@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="order-application" />
       </profile>
-      <profile name="Annotation profile for WhiteHeavenKafkaProducerMicroserviceApplication" enabled="true">
+      <profile name="Annotation profile for EscortShipKafkaProducerMicroserviceApplication" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />

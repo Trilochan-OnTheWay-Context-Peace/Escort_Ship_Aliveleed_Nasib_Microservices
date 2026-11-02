@@ -12,8 +12,8 @@
     <artifactId>eureka-server-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>WhiteHeaven_Eureka_Server_Microservice</name>
-    <description>WhiteHeaven_Eureka_Server_Microservice</description>
+    <name>EscortShip_Eureka_Server_Microservice</name>
+    <description>EscortShip_Eureka_Server_Microservice</description>
     <url/>
     <licenses>
         <license/>

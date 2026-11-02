@@ -1,77 +1,77 @@
 package com.white.ship.microservices.platform.testing.application;
 
 
-import com.white.ship.microservices.platform.testing.application.collections.WhiteHeavenCollections;
-import com.white.ship.microservices.platform.testing.application.concurrency.WhiteHeavenConcurrency;
-import com.white.ship.microservices.platform.testing.application.features.WhiteHeavenJavaEightFeatures;
-import com.white.ship.microservices.platform.testing.application.miscellenous.WhiteHeavenMisellenousCodes;
-import com.white.ship.microservices.platform.testing.application.streams.WhiteHeavenStreams;
+import com.white.ship.microservices.platform.testing.application.collections.EscortShipCollections;
+import com.white.ship.microservices.platform.testing.application.concurrency.EscortShipConcurrency;
+import com.white.ship.microservices.platform.testing.application.features.EscortShipJavaEightFeatures;
+import com.white.ship.microservices.platform.testing.application.miscellenous.EscortShipMisellenousCodes;
+import com.white.ship.microservices.platform.testing.application.streams.EscortShipStreams;
 
-public class WhiteHeavenCommonFucntionalPrograms {
+public class EscortShipCommonFucntionalPrograms {
 
-    private static final WhiteHeavenCommonFucntionalPrograms whiteHeavenCommonFucntionalPrograms = WhiteHeavenCommonFucntionalPrograms.getInstance();
+    private static final EscortShipCommonFucntionalPrograms whiteHeavenCommonFucntionalPrograms = EscortShipCommonFucntionalPrograms.getInstance();
 
-    private static WhiteHeavenCommonFucntionalPrograms _instance;
+    private static EscortShipCommonFucntionalPrograms _instance;
 
-    private static WhiteHeavenCollections whiteHeavenCollections;
+    private static EscortShipCollections whiteHeavenCollections;
 
-    private static WhiteHeavenConcurrency whiteHeavenConcurrency;
+    private static EscortShipConcurrency whiteHeavenConcurrency;
 
-    private static WhiteHeavenJavaEightFeatures whiteHeavenJavaEightFeatures;
+    private static EscortShipJavaEightFeatures whiteHeavenJavaEightFeatures;
 
-    private static WhiteHeavenStreams whiteHeavenStreams;
+    private static EscortShipStreams whiteHeavenStreams;
 
-    private static WhiteHeavenMisellenousCodes whiteHeavenMisellenousCodes;
+    private static EscortShipMisellenousCodes whiteHeavenMisellenousCodes;
 
-    public static WhiteHeavenCommonFucntionalPrograms getInstance() {
+    public static EscortShipCommonFucntionalPrograms getInstance() {
         if(_instance == null) {
-            _instance = new WhiteHeavenCommonFucntionalPrograms();
+            _instance = new EscortShipCommonFucntionalPrograms();
         }
-        if(_instance.getWhiteHeavenCollections() == null) {
-            whiteHeavenCollections = new WhiteHeavenCollections();
+        if(_instance.getEscortShipCollections() == null) {
+            whiteHeavenCollections = new EscortShipCollections();
         }
-        if(_instance.getWhiteHeavenConcurrency() == null) {
-            whiteHeavenConcurrency = new WhiteHeavenConcurrency();
+        if(_instance.getEscortShipConcurrency() == null) {
+            whiteHeavenConcurrency = new EscortShipConcurrency();
         }
-        if(_instance.getWhiteHeavenJavaEightFeatures() == null) {
-            whiteHeavenJavaEightFeatures = new WhiteHeavenJavaEightFeatures();
+        if(_instance.getEscortShipJavaEightFeatures() == null) {
+            whiteHeavenJavaEightFeatures = new EscortShipJavaEightFeatures();
         }
-        if(_instance.getWhiteHeavenStreams() == null) {
-            whiteHeavenStreams = new WhiteHeavenStreams();
+        if(_instance.getEscortShipStreams() == null) {
+            whiteHeavenStreams = new EscortShipStreams();
         }
-        if(_instance.getWhiteHeavenMisellenousCodes() == null) {
-            whiteHeavenMisellenousCodes = new WhiteHeavenMisellenousCodes();
+        if(_instance.getEscortShipMisellenousCodes() == null) {
+            whiteHeavenMisellenousCodes = new EscortShipMisellenousCodes();
         }
         return _instance;
     }
 
-    public static WhiteHeavenMisellenousCodes getWhiteHeavenMisellenousCodes() {
+    public static EscortShipMisellenousCodes getEscortShipMisellenousCodes() {
         return whiteHeavenMisellenousCodes;
     }
 
-    public WhiteHeavenCollections getWhiteHeavenCollections() {
+    public EscortShipCollections getEscortShipCollections() {
         return whiteHeavenCollections;
     }
 
 
-    public WhiteHeavenConcurrency getWhiteHeavenConcurrency() {
+    public EscortShipConcurrency getEscortShipConcurrency() {
         return whiteHeavenConcurrency;
     }
 
-    public WhiteHeavenJavaEightFeatures getWhiteHeavenJavaEightFeatures() {
+    public EscortShipJavaEightFeatures getEscortShipJavaEightFeatures() {
         return whiteHeavenJavaEightFeatures;
     }
 
-    public WhiteHeavenStreams getWhiteHeavenStreams() {
+    public EscortShipStreams getEscortShipStreams() {
         return whiteHeavenStreams;
     }
 
     private static void executeCodes() {
-        WhiteHeavenCollections whiteHeavenCollections = whiteHeavenCommonFucntionalPrograms.getWhiteHeavenCollections();
-        WhiteHeavenConcurrency whiteHeavenConcurrency = whiteHeavenCommonFucntionalPrograms.getWhiteHeavenConcurrency();
-        WhiteHeavenJavaEightFeatures whiteHeavenJavaEightFeatures = whiteHeavenCommonFucntionalPrograms.getWhiteHeavenJavaEightFeatures();
-        WhiteHeavenStreams whiteHeavenStreams = whiteHeavenCommonFucntionalPrograms.getWhiteHeavenStreams();;
-        WhiteHeavenMisellenousCodes whiteHeavenMisellenousCodes = whiteHeavenCommonFucntionalPrograms.getWhiteHeavenMisellenousCodes();
+        EscortShipCollections whiteHeavenCollections = whiteHeavenCommonFucntionalPrograms.getEscortShipCollections();
+        EscortShipConcurrency whiteHeavenConcurrency = whiteHeavenCommonFucntionalPrograms.getEscortShipConcurrency();
+        EscortShipJavaEightFeatures whiteHeavenJavaEightFeatures = whiteHeavenCommonFucntionalPrograms.getEscortShipJavaEightFeatures();
+        EscortShipStreams whiteHeavenStreams = whiteHeavenCommonFucntionalPrograms.getEscortShipStreams();;
+        EscortShipMisellenousCodes whiteHeavenMisellenousCodes = whiteHeavenCommonFucntionalPrograms.getEscortShipMisellenousCodes();
         // Streams
         whiteHeavenStreams.runExecuteJavaCodes();
         // Collections
